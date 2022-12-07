@@ -20,6 +20,7 @@ lk21
 lxml
 megasdkrestclient
 mediainfo
+openssl
 pillow
 psutil
 psycopg2-binary
